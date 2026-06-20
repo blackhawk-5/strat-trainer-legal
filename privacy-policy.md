@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the The Strat Trainer app for mobile devices, together with any related services operated by Greg Hasel (collectively, the "Application"). Greg Hasel is hereby referred to as the "Service Provider".
+This privacy policy applies to the The Strat Trainer app for mobile devices, together with any related services operated by Greg Hassel (collectively, the "Application"). Greg Hassel is hereby referred to as the "Service Provider".
 
 **Information Collection and Use**
 
