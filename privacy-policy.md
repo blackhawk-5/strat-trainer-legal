@@ -44,7 +44,6 @@ Data protection laws in other countries may differ from those in your jurisdicti
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [AdMob](https://policies.google.com/technologies/partner-sites)
-*   [AppLovin](https://www.applovin.com/privacy/)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -69,11 +68,27 @@ The Service Provider retains personal data based on its necessity for the stated
 
 You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at strattrainer@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
 
+**Advertising and Tracking (iOS)**
+
+This Application uses Google AdMob to display 
+advertisements. AdMob may use your device's 
+advertising identifier (IDFA) to serve personalized 
+ads. On iOS devices, you will be asked for permission 
+to track your activity via Apple's App Tracking 
+Transparency framework before any tracking occurs. 
+You may change your tracking preferences at any time 
+in your device's Settings → Privacy → Tracking.
+
+To opt out of personalized ads served by Google, 
+visit: https://adssettings.google.com
+
 **Children**
 
-The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
-
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (strattrainer@gmail.com) so that they will be able to take the necessary actions.
+The Application is intended for general audiences. 
+The Service Provider does not knowingly collect 
+personally identifiable information from children 
+under 13 years of age (or such higher age as required 
+by applicable law).
 
 **Security**
 
